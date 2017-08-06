@@ -1,0 +1,26 @@
+{
+  "name": "sikbot",
+  "version": "1.0.0",
+  "description": "A sik scraping bot gui based",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shlomohass/sikbot.git"
+  },
+  "keywords": [
+    "sik",
+    "scraping"
+  ],
+  "author": "shlomo hassid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shlomohass/sikbot/issues"
+  },
+  "homepage": "https://github.com/shlomohass/sikbot#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
